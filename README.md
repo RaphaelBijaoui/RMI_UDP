@@ -25,7 +25,7 @@ Remote Procedure Calls aim to make a call to a remote service look the same as a
 – However calls to procedures implemented remotely can fail in different ways to procedures implemented locally, the semantics of an RPC are different from those of a local procedure.
 
 <p align="center">
-  <img src="https://github.com/RaphaelBijaoui/images/blob/master/RMI.png">
+  <img src="https://github.com/RaphaelBijaoui/images/blob/master/RPC.png">
 </p>
 <p align="center">
   <i>General client-server interaction for RPC communication</i>
