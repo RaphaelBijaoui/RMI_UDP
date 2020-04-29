@@ -10,7 +10,7 @@ This work is essentially a comparison of interaction methods- a first, primitive
 The User Datagram Protocol (UDP) is simplest Transport Layer communication protocol available of the TCP/IP protocol suite. It involves minimum amount of communication mechanism. UDP is said to be an unreliable transport protocol but it uses IP services which provides best effort delivery mechanism.
 
 <p align="center">
-  <img width=370 height=200 src="https://github.com/RaphaelBijaoui/images/blob/master/UDP.png">
+  <img width=370 height=250 src="https://github.com/RaphaelBijaoui/images/blob/master/UDP.png">
 </p>
 <p align="center">
   <i>General client-server interaction for UDP communication</i>
@@ -25,7 +25,7 @@ Remote Procedure Call, enabled by the Java RMI aim to make a call to a remote se
 – However calls to procedures implemented remotely can fail in different ways to procedures implemented locally, the semantics of an RPC are different from those of a local procedure.
 
 <p align="center">
-  <img width=370 height=200 src="https://github.com/RaphaelBijaoui/images/blob/master/RPC.png">
+  <img width=370 height=250 src="https://github.com/RaphaelBijaoui/images/blob/master/RPC.png">
 </p>
 <p align="center">
   <i>General client-server interaction for RPC communication</i>
