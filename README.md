@@ -1,4 +1,4 @@
-# RMI_UDP
+# Programming in RMI & UDP
 Implementation and exploration of two client-server interactions: the Java Remote Method Invocation (RMI) and the User Data Protocol (UDP). 
 
 Coursework component of Imperial CO527 Computer Networks & Distributed Systems. Co-author: Nathan Amar
@@ -81,3 +81,13 @@ or
 ```
 ./udpclient.sh localhost 5000 1000
 ```
+
+
+For a more in-depth analysis of this project, have a look at <a href=https://github.com/RaphaelBijaoui/RMI_UDP/blob/master/ProjectReport.pdf>ProjectReport.pdf</a>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+If anything, the door is always open. Contact details in bio!
+
+Enjoy :)
+
