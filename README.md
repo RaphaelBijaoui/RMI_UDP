@@ -6,7 +6,7 @@ Coursework component of Imperial CO527 Computer Networks & Distributed Systems. 
 ## Background
 This work is essentially a comparison of interaction methods- a first, primitive method (UDP), and a remote procedure call (Java RMI). A bit of background on these two methods, courtesy of the teachings from CO527:
 
-**UDP**
+### UDP
 The User Datagram Protocol (UDP) is simplest Transport Layer communication protocol available of the TCP/IP protocol suite. It involves minimum amount of communication mechanism. UDP is said to be an unreliable transport protocol but it uses IP services which provides best effort delivery mechanism.
 
 <p align="center">
@@ -17,10 +17,10 @@ The User Datagram Protocol (UDP) is simplest Transport Layer communication proto
 </p>
 
 
-**Remote procedure calls**
+### Java RMI
 However, basic message passing in UDP can leave a lot of work for the programmer e.g. constructing messages, transforming data types.
 
-Remote Procedure Calls aim to make a call to a remote service look the same as a call to a local procedure.
+Remote Procedure Call, enabled by the Java RMI aim to make a call to a remote service look the same as a call to a local procedure.
 – The parameters to the call are carried in one or several request messages and the results returned reply message(s).
 – However calls to procedures implemented remotely can fail in different ways to procedures implemented locally, the semantics of an RPC are different from those of a local procedure.
 
